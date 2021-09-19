@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mobile2021_2</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="confirm_email">Confirmar email</string>
+    <string name="password">Senha</string>
+    <string name="confirm_password">Confirmar senha</string>
+    <string name="register">Cadastrar</string>
+    <string name="name">Nome completo</string>
+    <string name="cellphone">Celular</string>
+    <string name="date">Data de Nasci.</string>
+
+</resources>
